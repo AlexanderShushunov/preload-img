@@ -1,0 +1,18 @@
+.for-canvas {
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.for-css {
+    background-color: blue;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.with-img {
+    background-image: url("/img-2.png");
+    background-size: cover;
+}
